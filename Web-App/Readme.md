@@ -26,7 +26,7 @@ Ein interaktiver Slider im Home-Bereich.
 * Optimiert für verschiedene Bildschirmgrößen.
 
 ![Alternativtext: Karussell](./screenies/Karussell.png)
-![Alternativtext: Karussell Turn](./screenies/KarussellTurn.png)
+![Alternativtext: Karussell Turn](./screenies/KarusselTurn.png)
 
 ### Sidebar
 Die intuitive Navigation der App.
@@ -38,9 +38,12 @@ Die intuitive Navigation der App.
 ### Galerie mit Drag-and-Drop
 Das Herzstück für die Fotoverwaltung.
 * **Galerie:** Eine übersichtliche Grid-Ansicht aller hochgeladenen Bilder.
-* **Drag-and-Drop Feld:** Ein spezieller Bereich, in dem neue Bilder einfach per "Drag and Drop" oder auch durch klicken in das Feld hochgeladen werden können. Dies sorgt für eine besonders einfache Bedienung beim Verwalten der Gäste-Fotos.
 
 ![Alternativtext: Galerie Seite](./screenies/Gallerie.png)
+
+* **Drag-and-Drop Feld:** Ein spezieller Bereich, in dem neue Bilder einfach per "Drag and Drop" oder auch durch klicken in das Feld hochgeladen werden können. Dies sorgt für eine besonders einfache Bedienung beim Verwalten der Gäste-Fotos.
+
+
 ![Alternativtext: Drag and Drop](./screenies/DnD.png)
 
 ### Maps Anbindung
