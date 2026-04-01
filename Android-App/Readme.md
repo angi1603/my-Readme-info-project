@@ -1,6 +1,8 @@
 # Android-App Combination-Projekt (Vue & Firebase)
 Status: In Construction 🚧
 
+Der Code zu diesem Projekt ist in einem privatem Repo, die Readme ist eine Information zu dem privaten Repo.
+
 Dies ist eine Android App für die hilfe zur Kombination von Kleidung, gebaut mit **Vue und Dart**. Es bietet eine App-Oberfläche mit verschiedenen interaktiven Modulen.
 
 ## Features & Modules

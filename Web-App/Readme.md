@@ -1,6 +1,8 @@
 # Web-App Wedding-Page-Projekt (Angular & Firebase)
 Status: In Construction 🚧
 
+Der Code zu diesem Projekt ist in einem privatem Repo, die Readme ist eine Information zu dem privaten Repo.
+
 Dies ist ein Web-Frontend für eine Hochzeits-Manage Webseite, gebaut mit **Angular**. Es bietet eine geschützte Admin-Oberfläche mit verschiedenen interaktiven Modulen.
 
 ## Features & Modules
