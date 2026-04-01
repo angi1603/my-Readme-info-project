@@ -44,7 +44,7 @@ Das Herzstück für die Fotoverwaltung.
 * **Drag-and-Drop Feld:** Ein spezieller Bereich, in dem neue Bilder einfach per "Drag and Drop" oder auch durch klicken in das Feld hochgeladen werden können. Dies sorgt für eine besonders einfache Bedienung beim Verwalten der Gäste-Fotos.
 
 
-![Alternativtext: Drag and Drop](./screenies/DnD.png)
+![Alternativtext: Drag and Drop](./screenies/DnDfield.png)
 
 ### Maps Anbindung
 Die Anbindung von Google Maps für alle wichtigen Standorte.
